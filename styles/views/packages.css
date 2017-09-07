@@ -33,6 +33,7 @@
 .package-card p {
     width: 90%;
     margin: 0 auto 10px;
+    overflow: scroll;
 }
 
 .package-card button {
